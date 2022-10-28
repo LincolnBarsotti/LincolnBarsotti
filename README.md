@@ -24,4 +24,5 @@
   
 </div>
   
-![snake animation](https://github.com/LincolnBarsotti/LincolnBarsotti)
+![snake gif](https://github.com/LincolnBarsotti/LincolnBarsotti/blob/output/github-contribution-grid-snake.svg)
+  
