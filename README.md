@@ -1,7 +1,7 @@
 ## Olá, eu sou o Lincoln, bem vindos ao meu Github  👋
 
 
-- 🐱‍💻 Meu foco de desenvolvimento é back end, estudando java; 
+- 👨🏽‍💻 Meu foco de desenvolvimento é back end, estudando java; 
 - ❤️ Estudando Análise e Desenvolvimento de Sistemas (ads);
 - ⚡ Pronomes: ele/dele;
 
