@@ -1,13 +1,17 @@
-## Olá, eu sou o Lincoln, bem vindos ao meu Github  👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=3000&pause=200&color=00F74C&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Lincoln;Atuando+como+desenvolvedor+de+software;+Sejam+bem+vindos+ao+meu+Github+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-
-- 👨🏽‍💻 Meu foco de desenvolvimento é back end, estudando java; 
+- 👨🏽‍💻 Meu foco de desenvolvimento é back end; 
 - ❤️ Estudando Análise e Desenvolvimento de Sistemas (ads);
 - ⚡ Pronomes: ele/dele;
 
 <div align="center">
   <a href="https://github.com/LincolnBarsotti">
-  <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=LincolnBarsotti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <table>
+  <tr>
+    <td>Você é o visitante número</td>
+    <td><img src="https://profile-counter.glitch.me/LincolnBarsotti/count.svg" alt="" /></td>
+  </tr>
+</table>
   <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LincolnBarsotti&layout=compact&langs_count=7&theme=dark"/>
 </div>
 - 📲 Meios de comunicação 
