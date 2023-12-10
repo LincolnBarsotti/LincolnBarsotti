@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=3000&pause=200&color=00F74C&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Lincoln;Atuando+como+desenvolvedor+de+software;+Sejam+bem+vindos+ao+meu+Github+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-- 👨🏽‍💻 Meu foco de desenvolvimento é back end; 
 - ❤️ Estudando Análise e Desenvolvimento de Sistemas (ads);
-- ⚡ Pronomes: ele/dele;
 
 <div align="center">
   <a href="https://github.com/LincolnBarsotti">
