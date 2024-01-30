@@ -1,17 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=3000&pause=200&color=00F74C&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Lincoln;Atuando+como+desenvolvedor+de+software;+Sejam+bem+vindos+ao+meu+Github+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 - ❤️ Estudando Análise e Desenvolvimento de Sistemas (ads);
-
-<div align="center">
-  <a href="https://github.com/LincolnBarsotti">
-    <table>
-  <tr>
-    <td>Você é o visitante número</td>
-    <td><img src="https://profile-counter.glitch.me/LincolnBarsotti/count.svg" alt="" /></td>
-  </tr>
-</table>
-  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LincolnBarsotti&layout=compact&langs_count=7&theme=dark"/>
+<div>
+<img align="center" alt="LincolnBarsotti's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LincolnBarsotti&show_icons=true&theme=tokyonight" />
+<img align="center" alt="LincolnBarsotti's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LincolnBarsotti&theme=tokyonight" />
 </div>
+
+
 - 📲 Meios de comunicação 
   
 <div> 
