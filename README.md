@@ -1,13 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=3000&pause=200&color=00F74C&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Lincoln;Atuando+como+desenvolvedor+de+software;+Sejam+bem+vindos+ao+meu+Github+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-- ❤️ Estudando Análise e Desenvolvimento de Sistemas (ads);
-<div>
-<img align="center" alt="LincolnBarsotti's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LincolnBarsotti&show_icons=true&theme=tokyonight" />
-<img align="center" alt="LincolnBarsotti's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LincolnBarsotti&theme=tokyonight" />
-</div>
+
+<details open><summary><b>GitHub Readme Stats</b></summary>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=lincolnbarsotti&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&number_format=long" alt="lincolnbarsotti's GitHub stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnbarsotti&layout=compact&theme=buefy&hide_border=true&langs_count=20"/></details>
 
 
-- 📲 Meios de comunicação 
+<details open><summary><b>Meios de comunicação </b></summary>
   
 <div> 
 <a href="https://www.linkedin.com/in/lincoln-barsotti-64485a22b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -15,10 +14,19 @@
 <a href = "https://www.instagram.com/lincoln_barsotti/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <div/>
 
+</details>
+
+<details open><summary><b>GitHub Profile Activity Summary</b></summary>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lincolnbarsotti&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lincolnbarsotti&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lincolnbarsotti&theme=default)
+</details>
+
 <div>
 
   
-### 🛠 &nbsp;Tecnologias 
+### 🛠 Tecnologias 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
