@@ -2,7 +2,7 @@
 
 
 <details open><summary><b>GitHub Readme Stats</b></summary>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lincolnbarsotti&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&number_format=long" alt="lincolnbarsotti's GitHub stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=lincolnbarsotti&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&show=reviews,prs_merged_percentage&number_format=long" alt="lincolnbarsotti's GitHub stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnbarsotti&layout=compact&theme=buefy&hide_border=true&langs_count=20"/></details>
 
 
