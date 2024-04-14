@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=3000&pause=200&color=00F74C&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Lincoln;Atuando+como+desenvolvedor+de+software;+Sejam+bem+vindos+ao+meu+Github+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 
-<details open><summary><b>GitHub Readme Stats</b></summary>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lincolnbarsotti&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&show=reviews,prs_merged_percentage&number_format=long" alt="lincolnbarsotti's GitHub stats" />
+<details open><summary><b>GitHub Readme Most used Languages</b></summary>  
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnbarsotti&layout=compact&theme=buefy&hide_border=true&langs_count=20"/></details>
 
 
@@ -20,7 +19,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lincolnbarsotti&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lincolnbarsotti&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lincolnbarsotti&theme=default)
 </details>
 
 <div>
