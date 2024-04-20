@@ -1,8 +1,7 @@
-<p align="center"><img src="https://img.icons8.com/?size=48&id=8jdMCwiRzYTv&format=gif" width="10%" /></p>
+<p align="center"><img align="center" alt="Setup" src="https://img.icons8.com/color/96/pixel-cat.png" width="200" height="200" /><img src="https://img.icons8.com/?size=48&id=8jdMCwiRzYTv&format=gif" width="10%" /></p>
 <h1 align="center"> Welcome to my profile </h1> 
 
 
-<img align="left" alt="Setup" src="https://img.icons8.com/color/96/pixel-cat.png" width="200" height="200" />
 <p align="center" ><b> I'm coffe, i mean, I'm Lincoln </b> </p>
 <p align="center" >I love code, coffee, and cats. If you want to see my code in action, feel free to message me on my social media platforms...</p>
 
