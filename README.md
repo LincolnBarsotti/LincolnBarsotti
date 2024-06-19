@@ -1,6 +1,5 @@
-<p align="center"><img align="center" alt="Setup" src="https://img.icons8.com/color/96/pixel-cat.png" width="200" height="200" /><img src="https://img.icons8.com/?size=48&id=8jdMCwiRzYTv&format=gif" width="10%" /></p>
+<p align="center"><img align="center" alt="Setup" src="https://img.icons8.com/color/96/pixel-cat.png" width="200" height="200" /><img src="https://img.icons8.com/?size=48&id=8jdMCwiRzYTv&format=gif" width="80vh" /></p>
 <h1 align="center"> Welcome to my profile </h1> 
-
 
 <p align="center" ><b> I'm coffe, i mean, I'm Lincoln </b> </p>
 <p align="center" >I love code, coffee, and cats. If you want to see my code in action, feel free to message me on my social media platforms...</p>
@@ -9,7 +8,8 @@
   <tr>
     <td>
       <p align="center"><b>Languages and tools I'm currently using:</b></p>
-      <p align="center"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/> 
+      <p align="center">
+         <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/springio-icon.svg" alt="Spring" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>  
         <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>  
         <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
@@ -18,7 +18,6 @@
     <td>
       <p align="center"><b> My current challeng is... </b></p>
       <p align="center">
-         <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/springio-icon.svg" alt="Spring" width="40" height="40"/>
        <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/> 
        <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/oracle-original.svg" alt="Oracle-DB" width="40" height="40"/>
