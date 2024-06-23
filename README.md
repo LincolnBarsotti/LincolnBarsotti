@@ -38,7 +38,7 @@
 
 <h3> Professional Life </h3>
 <p>
-As a 21-year-old programmer, I'm deeply engrossed in my studies at FACENS University. Specializing in back-end development, I thrive on the intricacies of coding and problem-solving. My days are filled with dissecting algorithms, databases, and crafting projects. Whether it's debugging code or architecting new software, I relish the challenges that come with being a programmer.
+As a 22-year-old programmer, I'm deeply engrossed in my studies at FACENS University. Specializing in back-end development, I thrive on the intricacies of coding and problem-solving. My days are filled with dissecting algorithms, databases, and crafting projects. Whether it's debugging code or architecting new software, I relish the challenges that come with being a programmer.
 </p>
 
 <h3> Personal Pursuits: </h3>
