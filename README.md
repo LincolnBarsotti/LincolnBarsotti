@@ -11,7 +11,7 @@
       <p align="center">
          <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/springio-icon.svg" alt="Spring" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>   
-        <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
       </p>
     </td>
     <td>
@@ -19,7 +19,6 @@
       <p align="center">
        <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/> 
        <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
       </p>
     </td>
     <td>
@@ -38,12 +37,12 @@
 
 <h3> Professional Life </h3>
 <p>
-As a 22-year-old programmer, I'm deeply engrossed in my studies at FACENS University. Specializing in back-end development, I thrive on the intricacies of coding and problem-solving. My days are filled with dissecting algorithms, databases, and crafting projects. Whether it's debugging code or architecting new software, I relish the challenges that come with being a programmer.
+As a 22-year-old programmer, I'm deeply engrossed in my studies. Specializing in back-end development, I thrive on the intricacies of coding and problem-solving. My days are filled with dissecting algorithms, databases, and crafting projects. Whether it's debugging code or architecting new software, I relish the challenges that come with being a programmer.
 </p>
 
 <h3> Personal Pursuits: </h3>
 <p> 
-Beyond my programming endeavors, I find solace in the pages of manga, comics, and self-help books. I'm particularly drawn to literature on persuasion techniques, always seeking to enhance my communication skills. When I'm not buried in books or code, you'll likely find me at the gym, where I prioritize my physical well-being through regular workouts. Balancing my intellectual pursuits with physical activity keeps me grounded and energized for whatever challenges come my way.
+Beyond my programming endeavors, I find solace in the pages of manga, comics, and self-help books. I'm particularly drawn to the gym and i always seeking to enhance my communication skills. When I'm not buried in books or in the gym, you'll likely find me at the code. Balancing my intellectual pursuits with physical activity keeps me grounded and energized for whatever challenges come my way.
 </p>
 
 <br>
